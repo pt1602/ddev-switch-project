@@ -25,7 +25,7 @@ Given a project directory as an argument, this script will:
 
 ### 1. Clone the repository or copy the script:
 ```bash
-git clone https://github.com/pt1602/switch-project.git
+git clone https://github.com/pt1602/ddev-switch-project.git
 ```
 
 ### 2. Make the script executable:
