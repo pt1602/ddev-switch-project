@@ -35,7 +35,7 @@ chmod +x ddev-switch-project/switch-project.sh
 
 ### 3. Create a symlink to make it globally accessible:
 ```bash
-sudo ln -s /full/path/to/switch-project/switch-project.sh /usr/local/bin/switch-project
+sudo ln -s /full/path/to/ddev-switch-project/switch-project.sh /usr/local/bin/switch-project
 ```
 
 ---
