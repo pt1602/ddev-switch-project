@@ -30,7 +30,7 @@ git clone https://github.com/pt1602/ddev-switch-project.git
 
 ### 2. Make the script executable:
 ```bash
-chmod +x switch-project/switch-project
+chmod +x ddev-switch-project/switch-project.sh
 ```
 
 ### 3. Create a symlink to make it globally accessible:
